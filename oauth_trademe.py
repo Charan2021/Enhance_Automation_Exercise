@@ -63,7 +63,7 @@ print(oauth_token_secret)
 #############
 #TO GET DATA#
 #############
-protected_url = 'https://api.trademe.co.nz/v1/Search/Motors/Used.json'
+protected_url = 'https://api.tmsandbox.co.nz/v1/Search/Motors/Used.json'
 watchlist_url="https://api.tmsandbox.co.nz/v1/MyTradeMe/Watchlist/All.json"
 
 oauth = OAuth1Session(consumer_key,
