@@ -3,8 +3,8 @@ import webbrowser
 import requests
 from requests_oauthlib import OAuth1Session , OAuth1 , OAuth2 , OAuth2Session
 
-consumer_key = "400E87C7B9CE8E6F3FA27CBE718F591E"  # key provided by trademe after an application request
-consumer_secret = "F9A50D7B5F3A473826A751F7B3C1757D" # secret provided by trademe after an application request
+consumer_key = "DD4AD681EC8BE57782F8BC46EEDB7A56"  # key provided by trademe after an application request
+consumer_secret = "F576B6A06144560305790CA8031B8B57" # secret provided by trademe after an application request
 
 ###########################
 #AQUIRING TEMPORARY TOKENS#
