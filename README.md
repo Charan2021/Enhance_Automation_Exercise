@@ -17,4 +17,8 @@ Question 2:
 A GET request is made to the list of charities end point using the URl from the tademe sandbox api document. Using request's response method the content is obtaind and encoded to string using "text()" method. Since list of elements were returned, using for loop each element is parsed to get the charity name and asserted for "St Johns".
 
 Sorry, Questoin 3 is answered partially because:
-Unable to access car details informaiton using the API url "https://api.trademe.co.nz/v1/Search/Motors/Used.json" . Added code for 0auth in file "oauth_trademe.py".However myoauth code works fine for watchlist_url="https://api.tmsandbox.co.nz/v1/MyTradeMe/Watchlist/All.json" . To validate my code's logic kindly used the watch_list url.
+Unable to access car details informaiton using the API url "'https://api.tmsandbox.co.nz/v1/Search/Motors/Used.json'" . Added code for 0auth in file "oauth_trademe.py".However myoauth code works fine for watchlist_url="https://api.tmsandbox.co.nz/v1/MyTradeMe/Watchlist/All.json" . To validate my code's logic kindly used the watch_list url.
+
+consumer_key = "400E87C7B9CE8E6F3FA27CBE718F591E"
+consumer_secret = "F9A50D7B5F3A473826A751F7B3C1757D" 
+
